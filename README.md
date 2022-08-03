@@ -73,6 +73,13 @@ python -m app.daily_briefing
 APP_ENV="production" COUNTRY_CODE="US" ZIP_CODE="20057" python -m app.daily_briefing
 ```
 
+### Web App
+
+To run web app, run this command:
+
+```
+python -m app.weather_service
+```
 
 ## Testing
 
